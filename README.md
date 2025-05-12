@@ -28,7 +28,7 @@ Requirements:
 - [BrightData Account](https://brightdata.com)
 - [HuggingFace Account](https://huggingface.co/)
 - [NodeJS](https://nodejs.org/)  
-- Python
+- Python<br>
 <strong>To use locally run, these commands after one another</strong>
 1. Clone locally:
 
