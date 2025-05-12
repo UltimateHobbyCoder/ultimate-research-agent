@@ -3,7 +3,7 @@
 
   Ultimate Research Agent is part of the [Bright Data Real-Time AI Agents Challenge](https://dev.to/devteam/join-the-bright-data-real-time-ai-agents-challenge-3000-in-prizes-cog?bb=229475). This AI Agent parses through research and new sites to give the user Research information.
 ## How it works
-Here is an image describing how the AI agent works:
+Here is an image describing how the AI agent works:<br>
 [![ultimate-workflow.png](https://i.postimg.cc/TP8Pg6td/ultimate-workflow.png)
 ](https://postimg.cc/DSgF3tVH)
 
