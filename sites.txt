@@ -1,0 +1,4 @@
+GoogleScholar=https://scholar.google.com/scholar?q={query}
+Reddit=https://www.reddit.com/search/?q= {query}
+arxiv=https://arxiv.org/search/?query={query}&searchtype=all&source=header
+conversation=https://theconversation.com/global/search?q={query}

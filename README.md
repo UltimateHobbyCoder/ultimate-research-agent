@@ -15,10 +15,8 @@ Here is an image describing how the AI agent works:
 	- [Google Scholar](https://scholar.google.com)
 2. Science & Research News Outlets
 	- [TheCoversation](https://theconversation.com/global)
-	- [Vox - Future Perfect](https://www.vox.com/future-perfect)
 3. Opinion Sites (*<strong>Note these are highly unreliable, but showing different opinions is important!</strong>*)
 	- [Reddit](https://www.reddit.com/)
-	- [LessWrong](https://lesswrong.com)
 
 ## Live demo
 Live Demo at: [ultimate-research-agent](https://ultimate-research-agent.vercel.app)
