@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-AUTH = 'brd-customer-hl_d00cfd3d-zone-scraping_browser1:4kruzml4i3y1'
+AUTH = open(".env")  # Replace with your actual username and password	
 SBR_WS_CDP = f'wss://{AUTH}@brd.superproxy.io:9222'
 
 async def run(pw):
