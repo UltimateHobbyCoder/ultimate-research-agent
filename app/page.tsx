@@ -1,8 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
-import { Link } from "lucide-react";
 
 export default function Home() {
   const [messages, setMessages] = useState([
